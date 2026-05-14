@@ -1,0 +1,11 @@
+Date,Time,Level,Service,Message
+2026-05-14,09:00:11,INFO,AuthService,User login successful
+2026-05-14,09:01:15,ERROR,PaymentService,Payment failed due to timeout
+2026-05-14,09:02:01,WARNING,DatabaseService,High memory usage detected
+2026-05-14,09:03:44,INFO,AuthService,Password reset requested
+2026-05-14,09:05:10,ERROR,PaymentService,Invalid card details
+2026-05-14,09:06:55,ERROR,DatabaseService,Database connection failed
+2026-05-14,09:08:21,INFO,NotificationService,Email notification sent
+2026-05-14,09:09:00,WARNING,ServerService,CPU usage above threshold
+2026-05-14,09:10:45,ERROR,AuthService,Unauthorized login attempt
+2026-05-14,09:11:32,INFO,PaymentService,Payment processed successfully
